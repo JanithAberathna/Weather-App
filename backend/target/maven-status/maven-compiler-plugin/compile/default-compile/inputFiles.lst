@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\controller\WeatherController.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\ClientHandler.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\NetworkMonitor.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\WeatherBroadcaster.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\WeatherClient.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\WeatherDataFetcher.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\WeatherServer.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\core\WebSocketBridge.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\model\WeatherInfo.java
+C:\Users\user\Desktop\weather-system\backend\src\main\java\com\example\weather\WeatherSystemApplication.java

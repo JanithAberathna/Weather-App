@@ -1,0 +1,9 @@
+com\example\weather\core\WeatherDataFetcher.class
+com\example\weather\core\WeatherClient.class
+com\example\weather\controller\WeatherController.class
+com\example\weather\WeatherSystemApplication.class
+com\example\weather\core\WeatherBroadcaster.class
+com\example\weather\model\WeatherInfo.class
+com\example\weather\core\NetworkMonitor.class
+com\example\weather\core\ClientHandler.class
+com\example\weather\core\WeatherServer.class
