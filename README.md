@@ -1,4 +1,4 @@
-🌦️ Live Weather System
+# 🌦️ Live Weather System
 
 A real-time weather broadcasting system built with Java (Spring Boot), WebSocket, and Next.js. The system fetches weather data from Open-Meteo API and broadcasts updates to all connected clients via WebSocket.
 
